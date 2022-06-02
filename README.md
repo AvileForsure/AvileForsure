@@ -20,6 +20,7 @@
     <a href="https://soliditylang.org/" target="_blank"> <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://trendig-prod-docker.s3.amazonaws.com/media/uploads/2018/03/19/rust_programming_language_black_logosvg_mEdKiCT.png" width="48" height="48"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://pyscript.net/" target="_blank"> <img src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/2e11f02a-22ba-4f27-b1c2-805023bca7ff/1458789928/pyscript-PyScript-icon.png"/> </a>
         <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo.png" width="48" height="48"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 

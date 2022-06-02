@@ -19,7 +19,7 @@
 <p align="left"> 
     <a href="https://soliditylang.org/" target="_blank"> <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48"/> </a>
     <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://trendig-prod-docker.s3.amazonaws.com/media/uploads/2018/03/19/rust_programming_language_black_logosvg_mEdKiCT.png" width="48" height="48"/> </a>
-    <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo.png" width="45" height="45"/> </a>
+    <a href="https://www.ruby-lang.org" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo.png" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
